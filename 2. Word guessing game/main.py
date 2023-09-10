@@ -3,7 +3,7 @@ import random as rand
 def get_random_word(words):
     return(rand.choice(words))
     
-#Word list
+
 word_list = ['rainbow', 'computer', 'science', 'programming',
          'python', 'mathematics', 'player', 'condition',
          'reverse', 'water', 'board', 'geeks']
